@@ -1,6 +1,6 @@
 # Dara Jobs Dashboard w/Power Bi
 
-![Dashborad Page 1](/Images/Screenshot%202026-03-18%20140106.png)
+![Dashborad Page 1](/Images/Page%201.png)
 
 ## Introduction
 
@@ -35,12 +35,12 @@ This dashboard was created for **Job Seekers, Job Transitioners, and job Swapper
 
     ### Page 1: High-level Market view
 
- ![Dashborad Page 1](/Images/Screenshot%202026-03-18%20140106.png)
+ ![Dashborad Page 1](/Images/Page%201.png)
 
 
 This is your mission control for the data job market. It showcases key KPIs like total job countn median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
- ![Dashborad Page 2](/Images/Screenshot%202026-03-18%20140356.png)
+ ![Dashborad Page 2](/Images/Page%202.png)
 
  This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home states, top hiring platfroms, and a global map of job location 
 
