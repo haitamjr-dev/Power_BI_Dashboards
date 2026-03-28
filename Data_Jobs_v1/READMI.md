@@ -1,4 +1,4 @@
-# Dara Jobs Dashboard w/Power Bi
+# Data Jobs Dashboard w/Power Bi
 
 ![Dashborad Page 1](/Images/Page%201.png)
 
