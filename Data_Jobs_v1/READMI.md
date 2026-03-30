@@ -33,7 +33,7 @@ This dashboard was created for **Job Seekers, Job Transitioners, and job Swapper
     - **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
  ## Dashboard Overview 
 
-    ### Page 1: High-level Market view
+   ### Page 1: High-level Market view
 
  ![Dashborad Page 1](/Images/Page%201.png)
 
